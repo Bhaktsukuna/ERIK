@@ -905,6 +905,8 @@ nav .btn {
   }
 }
 .footer {
+  max-width: 1920px;
+  margin-inline: auto;
   background-color: #111;
   padding-inline: 1.5rem;
   padding-block: 4rem;
