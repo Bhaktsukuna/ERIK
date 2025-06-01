@@ -954,6 +954,8 @@ gap: .7rem;
 // FOOTER-----------------------
 .footer{
   // margin-top: 4rem;
+    max-width: 1920px;
+      margin-inline: auto;
   background-color: #111;
   padding-inline: 1.5rem;
   padding-block: 4rem;
